@@ -1,4 +1,15 @@
-# CPRIM Study Case in a Photovoltaic Generation Systems
+# CPRIM Study Case in a Photovoltaic Generation System
+
+This repository contains complementary artifacts regarding a study case of the application of  **CPRIM (Cyber-Physical Risks Identification Method)** in a photovoltaic generation system. These artifacts are part of the research work reported in the paper *Hybrid Method for Cyber-Physical Risk Identification Applied to a Grid-Connected Photovoltaic System*, recently submitted for pair review.
+
+Research team:
+* *Maria Fernanda Oliveira Santos (mfernanda2202@hotmail.com)*
+* *[Wilson S. Melo Jr.](https://www.researchgate.net/profile/Wilson-Melo-Junior) (wsjunior@inmetro.gov.br)*
+* *Alan Oliveira de Sá (alan@di.fc.ul.pt)*
+* *Marco Pasetti (marco.pasetti@unibs.it)*
+* *Paolo Ferrari (paolo.ferrari@unibs.it)*
+
+*Revised on July 24th, 2023.*
 
 ## What is CPRIM
 
